@@ -1,3 +1,3 @@
 # projeto-pw3-tarefas
-<ul>João Pedro Correia</ul>
-<ul>Matheus Bernardino</ul>
+<ul>Miguel Pifani Florentino</ul>
+<ul>Rogério Zanzarini Fagá</ul>
